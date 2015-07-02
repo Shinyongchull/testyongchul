@@ -8,7 +8,15 @@ brach
 iss53!
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> make
 iis1 !! 
 
+
 hi bye byebye 
+<<<<<<< HEAD
+=======
+
+>>>>>>> make
