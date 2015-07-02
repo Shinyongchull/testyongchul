@@ -1,0 +1,4 @@
+
+functioni get(){
+ echo "HI";
+}
